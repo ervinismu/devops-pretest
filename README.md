@@ -26,6 +26,8 @@
         | contoh : http://192.168.2.15/
       * Dan sudah jadi webpage kita,alhamdulilah
   #### Catatan :
-      * 
+      * Dikarenakkan file gambar tidak bisa di load di folder images,kita harus menggeluarkkan 
+        semua gambar di folder images ke luar folder dan menghapus path `images/[nama gambar]` 
+        di file html
 
 
